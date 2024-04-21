@@ -48,7 +48,7 @@ const animationTimeline = () => {
         skewX: "-15deg"
     }
 
-    // timeline
+    // timelines
     const tl = new TimelineMax();
 
     tl.to(".container", 0.6, {
